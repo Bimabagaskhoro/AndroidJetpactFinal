@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="movie">MOVIE</string>
+    <string name="tvshow">TV SHOW</string>
+    <string name="moviefav">MOVIE FAVORITE</string>
+    <string name="tvshowfav">TV SHOW FAVORITE </string>
+    <string name="detail">Detail Activity</string>
+    <string name="description">description</string>
+    <string name="favorite">Favorite</string>
+    <string name="undo">undo</string>
+</resources>
